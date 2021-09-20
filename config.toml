@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'de-ch'
+title = 'Shroom Expert No. 1'
+theme = "ananke"
+
+[markup.goldmark.renderer]
+	unsafe = true
+
+[params]
+	favicon = "favicon.ico"
+	custom_css = ["custom.css"]
+	background_color_class = "bg-green"
+	body_classes = "avenir bg-black"
+	description = "The last theme you'll ever need. Maybe."
