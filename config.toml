@@ -1,4 +1,4 @@
-baseURL = 'https://achmanngopf.github.io/shroomy/'
+baseURL = 'https://achmanngopf.github.io/'
 languageCode = 'de-ch'
 title = 'Shroom Expert No. 1'
 theme = "ananke"
