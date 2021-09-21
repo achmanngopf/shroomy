@@ -9,7 +9,7 @@ draft: false
 </video> 
 
 
-## Look what I found yesterday 😍
+## Look what I discovered yesterday 😍
 <img src="images/image2.jpg" width="800"/>
 
 
